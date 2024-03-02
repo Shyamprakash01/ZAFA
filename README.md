@@ -1,1 +1,1 @@
-This a project we are for a friends pet clinic
+This is just a project
