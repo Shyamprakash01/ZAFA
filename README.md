@@ -1,1 +1,1 @@
-This was a project we are developing for a friends pet clinic
+This a project we are developing for a friends pet clinic
